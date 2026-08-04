@@ -1,0 +1,14 @@
+D:\C# Practise\Consolecaluclator\bin\Debug\net10.0\Consolecaluclator.exe
+D:\C# Practise\Consolecaluclator\bin\Debug\net10.0\Consolecaluclator.deps.json
+D:\C# Practise\Consolecaluclator\bin\Debug\net10.0\Consolecaluclator.runtimeconfig.json
+D:\C# Practise\Consolecaluclator\bin\Debug\net10.0\Consolecaluclator.dll
+D:\C# Practise\Consolecaluclator\bin\Debug\net10.0\Consolecaluclator.pdb
+D:\C# Practise\Consolecaluclator\obj\Debug\net10.0\Consolecaluclator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Practise\Consolecaluclator\obj\Debug\net10.0\Consolecaluclator.AssemblyInfoInputs.cache
+D:\C# Practise\Consolecaluclator\obj\Debug\net10.0\Consolecaluclator.AssemblyInfo.cs
+D:\C# Practise\Consolecaluclator\obj\Debug\net10.0\Consolecaluclator.csproj.CoreCompileInputs.cache
+D:\C# Practise\Consolecaluclator\obj\Debug\net10.0\Consolecaluclator.dll
+D:\C# Practise\Consolecaluclator\obj\Debug\net10.0\refint\Consolecaluclator.dll
+D:\C# Practise\Consolecaluclator\obj\Debug\net10.0\Consolecaluclator.pdb
+D:\C# Practise\Consolecaluclator\obj\Debug\net10.0\Consolecaluclator.genruntimeconfig.cache
+D:\C# Practise\Consolecaluclator\obj\Debug\net10.0\ref\Consolecaluclator.dll
