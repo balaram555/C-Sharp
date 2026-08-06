@@ -1,0 +1,15 @@
+D:\C# Practise\ShapeHirearchy\bin\Debug\net10.0\ShapeHirearchy.exe
+D:\C# Practise\ShapeHirearchy\bin\Debug\net10.0\ShapeHirearchy.deps.json
+D:\C# Practise\ShapeHirearchy\bin\Debug\net10.0\ShapeHirearchy.runtimeconfig.json
+D:\C# Practise\ShapeHirearchy\bin\Debug\net10.0\ShapeHirearchy.dll
+D:\C# Practise\ShapeHirearchy\bin\Debug\net10.0\ShapeHirearchy.pdb
+D:\C# Practise\ShapeHirearchy\obj\Debug\net10.0\ShapeHirearchy.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Practise\ShapeHirearchy\obj\Debug\net10.0\ShapeHirearchy.AssemblyInfoInputs.cache
+D:\C# Practise\ShapeHirearchy\obj\Debug\net10.0\ShapeHirearchy.AssemblyInfo.cs
+D:\C# Practise\ShapeHirearchy\obj\Debug\net10.0\ShapeHirearchy.csproj.CoreCompileInputs.cache
+D:\C# Practise\ShapeHirearchy\obj\Debug\net10.0\ShapeHirearchy.sourcelink.json
+D:\C# Practise\ShapeHirearchy\obj\Debug\net10.0\ShapeHirearchy.dll
+D:\C# Practise\ShapeHirearchy\obj\Debug\net10.0\refint\ShapeHirearchy.dll
+D:\C# Practise\ShapeHirearchy\obj\Debug\net10.0\ShapeHirearchy.pdb
+D:\C# Practise\ShapeHirearchy\obj\Debug\net10.0\ShapeHirearchy.genruntimeconfig.cache
+D:\C# Practise\ShapeHirearchy\obj\Debug\net10.0\ref\ShapeHirearchy.dll
