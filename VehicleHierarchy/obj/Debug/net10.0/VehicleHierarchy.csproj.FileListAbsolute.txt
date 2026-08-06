@@ -1,0 +1,15 @@
+D:\C# Practise\VehicleHierarchy\bin\Debug\net10.0\VehicleHierarchy.exe
+D:\C# Practise\VehicleHierarchy\bin\Debug\net10.0\VehicleHierarchy.deps.json
+D:\C# Practise\VehicleHierarchy\bin\Debug\net10.0\VehicleHierarchy.runtimeconfig.json
+D:\C# Practise\VehicleHierarchy\bin\Debug\net10.0\VehicleHierarchy.dll
+D:\C# Practise\VehicleHierarchy\bin\Debug\net10.0\VehicleHierarchy.pdb
+D:\C# Practise\VehicleHierarchy\obj\Debug\net10.0\VehicleHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Practise\VehicleHierarchy\obj\Debug\net10.0\VehicleHierarchy.AssemblyInfoInputs.cache
+D:\C# Practise\VehicleHierarchy\obj\Debug\net10.0\VehicleHierarchy.AssemblyInfo.cs
+D:\C# Practise\VehicleHierarchy\obj\Debug\net10.0\VehicleHierarchy.csproj.CoreCompileInputs.cache
+D:\C# Practise\VehicleHierarchy\obj\Debug\net10.0\VehicleHierarchy.sourcelink.json
+D:\C# Practise\VehicleHierarchy\obj\Debug\net10.0\VehicleHierarchy.dll
+D:\C# Practise\VehicleHierarchy\obj\Debug\net10.0\refint\VehicleHierarchy.dll
+D:\C# Practise\VehicleHierarchy\obj\Debug\net10.0\VehicleHierarchy.pdb
+D:\C# Practise\VehicleHierarchy\obj\Debug\net10.0\VehicleHierarchy.genruntimeconfig.cache
+D:\C# Practise\VehicleHierarchy\obj\Debug\net10.0\ref\VehicleHierarchy.dll
