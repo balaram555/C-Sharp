@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Consolecaluclator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2a187d2420ae4f7fb85daf5dd861500e013b688")]
 [assembly: System.Reflection.AssemblyProductAttribute("Consolecaluclator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Consolecaluclator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
