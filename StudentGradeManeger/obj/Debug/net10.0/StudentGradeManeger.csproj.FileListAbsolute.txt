@@ -1,0 +1,15 @@
+D:\C# Practise\StudentGradeManeger\bin\Debug\net10.0\StudentGradeManeger.exe
+D:\C# Practise\StudentGradeManeger\bin\Debug\net10.0\StudentGradeManeger.deps.json
+D:\C# Practise\StudentGradeManeger\bin\Debug\net10.0\StudentGradeManeger.runtimeconfig.json
+D:\C# Practise\StudentGradeManeger\bin\Debug\net10.0\StudentGradeManeger.dll
+D:\C# Practise\StudentGradeManeger\bin\Debug\net10.0\StudentGradeManeger.pdb
+D:\C# Practise\StudentGradeManeger\obj\Debug\net10.0\StudentGradeManeger.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Practise\StudentGradeManeger\obj\Debug\net10.0\StudentGradeManeger.AssemblyInfoInputs.cache
+D:\C# Practise\StudentGradeManeger\obj\Debug\net10.0\StudentGradeManeger.AssemblyInfo.cs
+D:\C# Practise\StudentGradeManeger\obj\Debug\net10.0\StudentGradeManeger.csproj.CoreCompileInputs.cache
+D:\C# Practise\StudentGradeManeger\obj\Debug\net10.0\StudentGradeManeger.sourcelink.json
+D:\C# Practise\StudentGradeManeger\obj\Debug\net10.0\StudentGradeManeger.dll
+D:\C# Practise\StudentGradeManeger\obj\Debug\net10.0\refint\StudentGradeManeger.dll
+D:\C# Practise\StudentGradeManeger\obj\Debug\net10.0\StudentGradeManeger.pdb
+D:\C# Practise\StudentGradeManeger\obj\Debug\net10.0\StudentGradeManeger.genruntimeconfig.cache
+D:\C# Practise\StudentGradeManeger\obj\Debug\net10.0\ref\StudentGradeManeger.dll
