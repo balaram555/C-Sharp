@@ -1,0 +1,15 @@
+D:\C# Practise\refactor\bin\Debug\net10.0\refactor.exe
+D:\C# Practise\refactor\bin\Debug\net10.0\refactor.deps.json
+D:\C# Practise\refactor\bin\Debug\net10.0\refactor.runtimeconfig.json
+D:\C# Practise\refactor\bin\Debug\net10.0\refactor.dll
+D:\C# Practise\refactor\bin\Debug\net10.0\refactor.pdb
+D:\C# Practise\refactor\obj\Debug\net10.0\refactor.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Practise\refactor\obj\Debug\net10.0\refactor.AssemblyInfoInputs.cache
+D:\C# Practise\refactor\obj\Debug\net10.0\refactor.AssemblyInfo.cs
+D:\C# Practise\refactor\obj\Debug\net10.0\refactor.csproj.CoreCompileInputs.cache
+D:\C# Practise\refactor\obj\Debug\net10.0\refactor.sourcelink.json
+D:\C# Practise\refactor\obj\Debug\net10.0\refactor.dll
+D:\C# Practise\refactor\obj\Debug\net10.0\refint\refactor.dll
+D:\C# Practise\refactor\obj\Debug\net10.0\refactor.pdb
+D:\C# Practise\refactor\obj\Debug\net10.0\refactor.genruntimeconfig.cache
+D:\C# Practise\refactor\obj\Debug\net10.0\ref\refactor.dll
