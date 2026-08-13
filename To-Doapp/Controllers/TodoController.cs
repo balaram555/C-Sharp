@@ -17,18 +17,18 @@ namespace TodoApi.Controllers
 
         // GET: api/todo
         [HttpGet]
-        public IActionResult GetAll()
+        public async Task<IActionResult> GetAll()
         {
-            var todos = _todoService.GetAll();
+            var todos = await _todoService.GetAllAsync();
 
             return Ok(todos);
         }
 
         // GET: api/todo/1
         [HttpGet("{id}")]
-        public IActionResult GetById(int id)
+        public async Task<IActionResult> GetById(int id)
         {
-            var todo = _todoService.GetById(id);
+            var todo = await _todoService.GetByIdAsync(id);
 
             if (todo == null)
             {
@@ -43,9 +43,9 @@ namespace TodoApi.Controllers
 
         // POST: api/todo
         [HttpPost]
-        public IActionResult Create(Todo todo)
+        public async Task<IActionResult> Create(Todo todo)
         {
-            var createdTodo = _todoService.Add(todo);
+            var createdTodo = await _todoService.CreateAsync(todo);
 
             return CreatedAtAction(
                 nameof(GetById),
@@ -56,9 +56,9 @@ namespace TodoApi.Controllers
 
         // PUT: api/todo/1
         [HttpPut("{id}")]
-        public IActionResult Update(int id, Todo todo)
+        public async Task<IActionResult> Update(int id, Todo todo)
         {
-            var updated = _todoService.Update(id, todo);
+            var updated = await _todoService.UpdateAsync(id, todo);
 
             if (!updated)
             {
@@ -76,9 +76,9 @@ namespace TodoApi.Controllers
 
         // DELETE: api/todo/1
         [HttpDelete("{id}")]
-        public IActionResult Delete(int id)
+        public async Task<IActionResult> Delete(int id)
         {
-            var deleted = _todoService.Delete(id);
+            var deleted = await _todoService.DeleteAsync(id);
 
             if (!deleted)
             {

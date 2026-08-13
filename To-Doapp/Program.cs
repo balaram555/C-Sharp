@@ -1,3 +1,5 @@
+using Microsoft.EntityFrameworkCore;
+using TodoApi.Data;
 using TodoApi.Services;
 var builder = WebApplication.CreateBuilder(args);
 
@@ -5,9 +7,13 @@ var builder = WebApplication.CreateBuilder(args);
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 builder.Services.AddControllers();
-builder.Services.AddSingleton<ITodoService, TodoService>();
+builder.Services.AddDbContext<TodoDbContext>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddScoped<ITodoService, TodoService>();
 // builder.Services.AddEndpointsApiExplorer();
 // builder.Services.AddSwaggerGen();
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
@@ -27,6 +33,8 @@ if (app.Environment.IsDevelopment())
 
 // app.UseHttpsRedirection();
 app.MapControllers();
+app.UseSwagger();
+app.UseSwaggerUI();
 
 // var summaries = new[]
 // {
